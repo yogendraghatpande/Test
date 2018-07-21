@@ -1,3 +1,5 @@
 master branch commit-1
 Feature-A Commit-1
+Feature-A Commit-2
 master branch commit-2
+Feature-A Commit-3
