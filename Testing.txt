@@ -1,2 +1,3 @@
 Feature-A Commit-1
 Feature-A Commit-2
+Feature-A Commit-3
